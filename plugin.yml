@@ -1,0 +1,6 @@
+name: SkullAPI
+version: 1.0
+author: "Dog Titor [Twitter: @DogTitor, Discord: DogTitor#0668]"
+website: "https://github.com/DogTitor/SkullAPI"
+main: dogtitor.skullapi.SkullAPI
+prefix: SkullAPI
